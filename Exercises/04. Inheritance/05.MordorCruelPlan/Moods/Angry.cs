@@ -1,0 +1,2 @@
+﻿public class Angry : Mood
+{ }
